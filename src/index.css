@@ -1,0 +1,65 @@
+@import "tailwindcss";
+
+@theme {
+  --color-pink: #F51963;
+  --color-tgray: #7f7f7f;
+  --font-Vazir: "Vazir";
+  --font-Vazir-Thin: "Vazir Thin";
+  --font-Vazir-Light: "Vazir Light";
+  --font-Vazir-Medium: "Vazir Medium";
+  --font-Vazir-Bold: "Vazir Bold";
+}
+
+
+@utility container {
+  padding-inline: 30px;
+  margin-inline: auto;
+  
+  @variant sm {
+      padding-inline: 20px;
+  }
+  
+  @variant md {
+      padding-inline: 30px;
+  }
+
+  @variant lg {
+      padding-inline: 40px;
+  }
+  
+  @variant xl {
+      padding-inline: 80px;
+  }
+  }
+
+
+@font-face {
+  font-family: "Vazir";
+  src: url("../fonts/Vazir.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vazir Thin";
+  src: url("../fonts/Vazir-Thin.woff2") format("woff2");
+  font-display: swap;
+}  
+
+@font-face {
+  font-family: "Vazir Light";
+  src: url("../fonts/Vazir-Light.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vazir Medium";
+  src: url("../fonts/Vazir-Medium.woff2") format("woff2");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Vazir Bold";
+  src: url("../fonts/Vazir-Bold.woff2") format("woff2");
+  font-display: swap;
+}
+
