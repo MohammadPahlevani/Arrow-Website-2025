@@ -8,6 +8,9 @@ CSS3
 
 JavaScript
 
+React
+
+TailwindCSS
+
 Swiper.js (for sliders)
 
-React
