@@ -1,7 +1,7 @@
-# 🌍 Live Demo
-🔗 https://arrow.mpi91.ir
+# Live Demo
+https://arrow.mpi91.ir
 
-# 🛠 Tech Stack
+# Tech Stack
 HTML5
 
 CSS3
@@ -15,4 +15,4 @@ TailwindCSS
 Swiper.js (for sliders)
 
 # Web API
-🔗 https://json.xstack.ir
+https://json.xstack.ir
