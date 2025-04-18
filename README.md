@@ -14,3 +14,5 @@ TailwindCSS
 
 Swiper.js (for sliders)
 
+# Web API
+🔗 https://json.xstack.ir
