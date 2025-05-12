@@ -1,5 +1,5 @@
 # Arrow Website
-A modern, responsive personal portfolio website built with React and Tailwind CSS.
+A modern, responsive portfolio website built with React and Tailwind CSS.
 
 # Live Demo
 https://arrow.moplidev.ir
